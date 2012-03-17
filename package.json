@@ -27,6 +27,7 @@
         "server"
     ],
     "dependencies": {
+        "redminer": "0.0.x",
         "node-trello": "0.x",
         "restler": "2.0.x",
         "sugar": "1.2.x"
