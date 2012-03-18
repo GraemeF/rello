@@ -27,7 +27,7 @@
         "server"
     ],
     "dependencies": {
-        "redminer": "0.0.x",
+        "redminer": "0.0.2",
         "trello": "0.0.4",
         "restler": "2.0.x",
         "step": "0.0.x",
